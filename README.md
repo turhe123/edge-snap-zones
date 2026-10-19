@@ -1,5 +1,7 @@
 # EdgeSnapZones
 
+**🌐 Website:** [turhe123.github.io/edge-snap-zones](https://turhe123.github.io/edge-snap-zones/)
+
 **Drag a window to a screen edge or corner and watch a preview before it snaps into halves, thirds or quarters.**
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -39,7 +41,13 @@ EdgeSnapZones is a free, open-source, 100% native, backend-free alternative to p
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-menu.png" alt="EdgeSnapZones menu bar menu with snap layouts and shortcuts" width="720"></p>
+
+<p align="center"><em>The EdgeSnapZones menu-bar menu lists every snap layout (halves, quarters, thirds, maximize, center) with its Control-Option shortcut, plus Restore, an Enabled toggle, Settings and Support.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-settings.png" alt="EdgeSnapZones Settings window" width="560"></p>
+
+<p align="center"><em>Settings let you toggle drag-to-snap and keyboard shortcuts, tune edge sensitivity and window gaps, enable launch at login, and keep a list of apps to ignore.</em></p>
 
 ## Install
 

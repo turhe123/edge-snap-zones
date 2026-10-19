@@ -1,0 +1,60 @@
+{
+  "seo_title": "Drag-to-edge window snapping for macOS",
+  "seo_description": "EdgeSnapZones is a free, open-source Mac menu bar app. Drag a window to an edge or corner, preview the layout, and snap it into halves, thirds or quarters.",
+  "hero_title_line1": "Drag to an edge.",
+  "hero_title_accent": "Watch it snap.",
+  "hero_sub": "Drag a window to a screen edge or corner, see a live preview of the target, and release to snap it into halves, thirds or quarters. Prefer the keyboard? Use Control + Option shortcuts.",
+  "features_title": "Snap windows without friction.",
+  "features_sub": "A small, native menu bar app that covers the layouts you use every day and nothing else.",
+  "features": [
+    {
+      "icon": "window",
+      "title": "Live snap preview",
+      "desc": "A translucent, blurred overlay shows the target frame while you drag. Release to snap, or release outside a zone and nothing happens."
+    },
+    {
+      "icon": "display",
+      "title": "Halves, quarters and thirds",
+      "desc": "Left and right edges make halves, corners make quarters, the top edge maximizes, and the bottom edge gives left, center or right thirds."
+    },
+    {
+      "icon": "keyboard",
+      "title": "Global keyboard shortcuts",
+      "desc": "Control + Option with the arrow keys, U/I/J/K, D/F/G, Return and C. Control + Option + Delete restores the original size."
+    },
+    {
+      "icon": "sliders",
+      "title": "Tunable in Settings",
+      "desc": "Set edge sensitivity from 2 to 30 pt and a gap of 0 to 40 pt. Toggle drag-to-snap, shortcuts and launch at login, and ignore specific apps."
+    },
+    {
+      "icon": "cursor",
+      "title": "Multi-display aware",
+      "desc": "Windows snap on the screen under the pointer and respect its visible frame, so the menu bar and Dock are never covered."
+    },
+    {
+      "icon": "shield",
+      "title": "Careful and private",
+      "desc": "Only a window's title bar starts a snap, and sheets and full-screen windows are skipped. There are no network requests, accounts or servers."
+    }
+  ],
+  "permissions_step": "Grant Accessibility access to EdgeSnapZones in System Settings → Privacy & Security → Accessibility so it can move and resize windows.",
+  "faq": [
+    {
+      "q": "Is EdgeSnapZones really free and open source?",
+      "a": "Yes. It is released under the MIT license, has no dependencies, and the full source is on GitHub. If it saves you time you can support development through the Support button, but nothing is locked behind it."
+    },
+    {
+      "q": "What permissions does it need?",
+      "a": "Only Accessibility, which macOS requires to find the window under the pointer and move or resize it. It does not ask for Screen Recording, Input Monitoring, Camera, Microphone or network access."
+    },
+    {
+      "q": "Where is my data stored?",
+      "a": "Your preferences, such as edge sensitivity, gap size and the ignore list, are stored locally in the app's standard macOS settings on your Mac. Nothing is sent anywhere, and there are no accounts."
+    },
+    {
+      "q": "Why isn't the app notarized?",
+      "a": "Notarization requires a paid Apple Developer account, which this free project does not have. Right-click the app and choose Open once to launch it, or build it yourself from source with Xcode."
+    }
+  ]
+}

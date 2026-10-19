@@ -1,0 +1,4 @@
+[
+  {"file":"01-menu.png","caption":"The EdgeSnapZones menu-bar menu lists every snap layout (halves, quarters, thirds, maximize, center) with its Control-Option shortcut, plus Restore, an Enabled toggle, Settings and Support.","alt":"EdgeSnapZones menu bar menu with snap layouts and shortcuts"},
+  {"file":"02-settings.png","caption":"Settings let you toggle drag-to-snap and keyboard shortcuts, tune edge sensitivity and window gaps, enable launch at login, and keep a list of apps to ignore.","alt":"EdgeSnapZones Settings window"}
+]
